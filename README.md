@@ -28,7 +28,7 @@
 编辑 **.github/workflows/run.yml**
 
 找到 cron: 0 10 * * *
-
+ 
 修改其中的10为你要的时间
 
 需要运行的时间-8就是UTC时间
